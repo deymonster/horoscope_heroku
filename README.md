@@ -1,1 +1,2 @@
-# horoscope_heroku
+# pyweb-bottle-heroku
+simple bottle heroku template
